@@ -1,0 +1,4 @@
+﻿  SliderControlDlg.cpp
+SliderControl.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  Slider.vcxproj -> C:\Users\Дмитрий\Desktop\Slider\Debug\Slider.exe
+  Slider.vcxproj -> C:\Users\Дмитрий\Desktop\Slider\Debug\Slider.pdb (Full PDB)

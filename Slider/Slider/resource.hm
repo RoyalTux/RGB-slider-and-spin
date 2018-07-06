@@ -1,0 +1,6 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by Slider.rc
+//
+#define HIDC_SLIDER1                    0x806503e9    // IDD_DIALOG1 [Украинский (Украина)]
+#define HIDC_SLIDER2                    0x806503ea    // IDD_DIALOG1 [Украинский (Украина)]
+#define HIDC_SLIDER3                    0x806503ec    // IDD_DIALOG1 [Украинский (Украина)]
